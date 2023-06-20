@@ -1,0 +1,284 @@
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.box{
+margin-top: -425px;
+}
+.player-video {
+    display: flex !important;
+    justify-content: center !important;
+    width: 70%;
+    filter: opacity(60%);
+    margin-top: 525px;
+    margin-left: -112px;
+    height: 704px;
+    margin-bottom: 124px;
+}
+.right {
+    margin-bottom: 1720px;
+    margin-left: 807px;
+    margin-top: -670px;
+}
+.right h2 {
+    font-size: 40px;
+  
+    font-weight: bold;
+}
+
+.right p {
+    font-family: "Poppins", sans-serif;
+    color: black;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+
+/* casess */
+.cartes {
+    margin-top: -1471px;
+}
+
+img{
+    width: 50px;
+}
+.single_feature_part {
+    text-align: center;
+    border: 1px solid #828bb2;
+    padding: 35px;
+    margin-top: 100px;
+    width: 222px;
+    height: 179px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 92px !important;
+}
+
+
+/* subscribe */
+
+.subscribe_partsection_padding{
+    margin-bottom: 153px;
+    margin-top: 100px;
+}
+
+
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: -6px;
+    margin-top: 30px
+
+
+}
+
+
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+
+
+.subscribe_part {
+    background-color: #191d34 !important;
+}
+.subscribe_part .subscribe_part_content {
+    text-align: center;
+}
+.subscribe_part .subscribe_part_content h2 {
+    color: #050505;
+}
+.subscribe_part .subscribe_part_content p {
+    color: #121111;
+}
+p {
+    font-family: "Poppins", sans-serif;
+    color: #506172;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+.subscribe_part .subscribe_form {
+    margin: 0 auto;
+    margin-top: 45px;
+    position: relative;
+    max-width: 558px;
+}
+.subscribe_part .subscribe_part_content {
+    text-align: center;
+}
+.subscribe_part .subscribe_form input {
+    border: 1px solid black;
+    width: 100%;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 50px;
+    padding: 19px 30px;
+    line-height: 20px;
+}
+
+
+.subscribe_part .subscribe_form .btn_1 {
+    padding: 15px 30px;
+    line-height: 16px;
+    border-radius: 50px;
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    width: 157px;
+    height: 57px;
+}
+
+.btn_1 {
+    display: inline-block;
+    padding: 17px 50px;
+    border-radius: 10px;
+    background-color:#fc48ab;
+    border: 2px solid #fc48ab;
+    font-size: 15px;
+    font-weight: 500;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+
+
+
+.subscribe_part {
+    background-color: #191d34 !important;
+    padding: 30px;
+    margin-bottom: 50px;
+    margin-top: 38px;
+}
+
+/* review */
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+figure.snip1157 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 220px;
+  max-width: 310px;
+  width: 100%;
+  color: #333;
+  text-align: left;
+  box-shadow: none !important;
+}
+figure.snip1157 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+  transition: all 0.35s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+}
+figure.snip1157 img {
+    /* max-width: 111%; */
+    vertical-align: middle;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin: 40px 0 0 10px;
+    width: 33%;
+}
+figure.snip1157 blockquote {
+  display: block;
+  border-radius: 8px;
+  position: relative;
+  background-color: #fafafa;
+  padding: 25px 50px 30px 50px;
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1.6em;
+  font-style: italic;
+}
+figure.snip1157 blockquote:before,
+figure.snip1157 blockquote:after {
+  font-family: 'FontAwesome';
+  content: "\201C";
+  position: absolute;
+  font-size: 50px;
+  opacity: 0.3;
+  font-style: normal;
+}
+figure.snip1157 blockquote:before {
+  top: 25px;
+  left: 20px;
+}
+figure.snip1157 blockquote:after {
+  content: "\201D";
+  right: 20px;
+  bottom: 0;
+}
+figure.snip1157 .arrow {
+  top: 100%;
+  width: 0;
+  height: 0;
+  border-left: 0 solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #fafafa;
+  margin: 0;
+  position: absolute;
+}
+
+
+figure.snip1157 .author {
+    position: absolute;
+    bottom: 45px;
+    padding: 0 10px 0 120px;
+    margin: 0;
+    text-transform: uppercase;
+    color: #ffffff;
+    transform: translateY(50%);
+    margin-left: 112px;
+}
+figure.snip1157 .author h5 {
+  opacity: 0.8;
+  margin: 0;
+  font-weight: 800;
+}
+figure.snip1157 .author h5 span {
+  font-weight: 400;
+  text-transform: none;
+  padding-left: 5px;
+}
+
+
+
+.rev{
+    display: flex;
+    padding-inline: 203px;
+
+}

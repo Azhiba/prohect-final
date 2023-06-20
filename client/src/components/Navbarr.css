@@ -1,0 +1,137 @@
+
+nav {
+	
+	display: flex !important;
+	justify-content: space-around;
+	margin:  auto 0;
+     font-family: cursive;
+	 font-style: italic;
+	 font-weight: bold;
+	position: fixed;
+	width: 65px!important;
+	height: 50px;
+	background-color: white;
+	border-radius: 8px;
+	font-size: 0;
+	z-index: 999999999999999999999;
+}
+nav a {
+	line-height: 50px;
+	height: 100%;
+	font-size: 15px;
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	color: black !important;
+	cursor: pointer;
+}
+nav a :hover{
+	
+	color:#f764be !important;
+
+}
+
+nav a{
+    margin:0 20px;
+}
+
+
+
+.body {
+	font-size: 12px;
+	font-family: sans-serif;
+	background: white;
+    display: flex;
+	margin-top: 10px;
+    justify-content: space-around;
+}
+
+.icons{
+    display: flex !important;
+    margin-right: -460px;
+    justify-content: space-around !important;
+    width: 7% !important;
+    height: 40px !important;
+    margin-top: 14px !important;
+    size: 3px !important;
+	margin-left: -545px;
+}
+.symbol{
+    width: 5% !important;
+    height:60px !important;
+    margin-top:0px !important;
+    size:5px !important ;
+}
+
+.symbol img{
+    width: 81px;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+	margin-top: -6px;
+}
+.icons svg{
+    width: 25px;
+    height: 25px;
+}
+.drop{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+  border: 1px solid red;
+	width: 170px ;
+	height: auto;
+	padding: 10px;
+	background-color: #adb0b4;
+	border-radius: 7px;
+	margin-left: 34cm;
+	margin-bottom: -3.4cm;
+	z-index: 9999999999999;
+  
+  }
+  /* nav login */
+   .content-box{
+	display:flex;
+	width:100%;
+	height:max-content
+  
+  }
+  .dash-header{
+	background-color: blueviolet;
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	height: 50px;
+	
+	align-items: center;
+  }
+   .dash-header img{
+	width: 30px;
+    border: 5px solid gray; 
+    border-radius: 50%;
+  }
+  .dash-header ion-icon{
+	padding: 16px;
+  } */
+  
+  .box-left{
+	background-color: yellow; 
+	 width: 20%; 
+  }
+  
+  .box-left ul{
+	display: flex;
+	flex-direction: column;
+	height: 300px;
+	list-style: none;
+  } 
+  .right-box{
+	 background-color: green; 
+	 width: 80%;
+	}
+
+	/*form select*/
+	
